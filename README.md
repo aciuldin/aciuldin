@@ -8,7 +8,7 @@
 
 I will share with you all my software development works in surveying and cartography areas. 
 
-You can help mapping the world here https://tasks.hotosm.org/
+You can help to map the world here https://tasks.hotosm.org/
 
 <!---
 aciuldin/aciuldin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
