@@ -2,7 +2,7 @@
 
 - 👋 I’m @aciuldin
 - 👀 I’m interested in GIS software developer
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Ruby
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Python and Ruby
 - 💞️ I’m looking to collaborate on going projects with my knowledge
 - 📫 How to reach me: athosnc@gmail.com
 
